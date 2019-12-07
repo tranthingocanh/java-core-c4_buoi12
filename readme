@@ -1,0 +1,9 @@
+a) Tiến hành đọc file và thực hiện lấy dữ liệu trong file đổ vào một list sản phẩm bao gồm: ID sp, tên sp, giá, số lượng, id danh mục, tên danh mục, ngày nhập hàng(kiểu dữ liệu là date).
+
+* Ghi chú: Nếu sản phẩm nào có mã SP không thuộc chuẩn: 2 kí tự đầu tiên là chữ in hoa, 3 ký tự sau là số thì sản phẩm đó sẽ không được thêm vào danh sách, và tất nhiên, thông tin chi tiết của sản phẩm đó sẽ được ghi vào logfile.txt nào đó.
+
+b) Phát triển chức năng tính giá trị theo danh mục (tổng giá) của tất cả những sản phẩm có trong file data biết rằng người dùng được phép nhập vào tên danh mục gần đúng với tên danh mục trong file data.
+
+c) Thực hiện tìm kiếm và in ra một sản phẩm chi tiết khi người dùng nhập vào mã sản phẩm.
+
+d) Sử dụng thuật toán Quick Sort để sắp sếp các sản phẩm trong danh sách theo thứ tự tăng dần về giá.
