@@ -1,0 +1,8 @@
+SanPham{idSP='SP008', tenSP='DONG HO CAVIN KLEN', giaSP='15,000,000.00', soLuongSP=20, idDanhMuc='DM002', tenDanhMuc='DONG HO', tenCongTy='COOP-MARKET 24H', ngayNhapHang=Sun May 12 00:00:00 ICT 2019}SanPham{idSP='SP001', tenSP='AO SO MI XXL', giaSP='500,000.00', soLuongSP=20, idDanhMuc='DM001', tenDanhMuc='QUAN AO', tenCongTy='COOP-MARKET 24H', ngayNhapHang=Sun May 12 00:00:00 ICT 2019}
+SanPham{idSP='SP002', tenSP='QUAN KAKI', giaSP='1,000,000.00', soLuongSP=10, idDanhMuc='DM001', tenDanhMuc='QUAN AO', tenCongTy='COOP-MARKET 24H', ngayNhapHang=Sun May 12 00:00:00 ICT 2019}
+SanPham{idSP='SP003', tenSP='AO THUN PUMA', giaSP='750,000.00', soLuongSP=12, idDanhMuc='DM001', tenDanhMuc='QUAN AO', tenCongTy='COOP-MARKET 24H', ngayNhapHang=Sun May 12 00:00:00 ICT 2019}
+SanPham{idSP='SP004', tenSP='QUAN JEAN NAM', giaSP='1,000,000.00', soLuongSP=17, idDanhMuc='DM001', tenDanhMuc='QUAN AO', tenCongTy='COOP-MARKET 24H', ngayNhapHang=Sun May 12 00:00:00 ICT 2019}
+SanPham{idSP='SP005', tenSP='DONG HO ORIENT K300', giaSP='4,300,000.00', soLuongSP=5, idDanhMuc='DM002', tenDanhMuc='DONG HO', tenCongTy='COOP-MARKET 24H', ngayNhapHang=Sun May 12 00:00:00 ICT 2019}
+SanPham{idSP='SP006', tenSP='DONG HO TREO TUONG CUCKOO', giaSP='1,000,000.00', soLuongSP=14, idDanhMuc='DM002', tenDanhMuc='DONG HO', tenCongTy='COOP-MARKET 24H', ngayNhapHang=Sun May 12 00:00:00 ICT 2019}
+SanPham{idSP='SP007', tenSP='DONG HO ROLEX', giaSP='1,000,750,000.00', soLuongSP=1, idDanhMuc='DM002', tenDanhMuc='DONG HO', tenCongTy='COOP-MARKET 24H', ngayNhapHang=Sun May 12 00:00:00 ICT 2019}
+SanPham{idSP='SP008', tenSP='DONG HO CAVIN KLEN', giaSP='15,000,000.00', soLuongSP=20, idDanhMuc='DM002', tenDanhMuc='DONG HO', tenCongTy='COOP-MARKET 24H', ngayNhapHang=Sun May 12 00:00:00 ICT 2019}
